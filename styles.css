@@ -101,12 +101,12 @@ body {
 
 .tile[data-state="wrong-location"] {
   border: none;
-  background-color: hsl(49, 51%, 47%);
+  background-color: hsl(41, 98%, 57%);
 }
 
 .tile[data-state="correct"] {
   border: none;
-  background-color: hsl(115, 29%, 43%);
+  background-color: hsl(271, 56%, 33%);
 }
 
 .tile.shake {
